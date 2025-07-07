@@ -1,0 +1,7 @@
+git init
+if the text name is in red its still not in staging area
+git add
+if the text name is in green its in staging area
+
+git commit
+then use git commit to reach the repository
